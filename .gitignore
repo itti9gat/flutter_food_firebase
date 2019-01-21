@@ -10,6 +10,8 @@
 .history
 .svn/
 
+android/app/google-services.json
+
 # IntelliJ related
 *.iml
 *.ipr
