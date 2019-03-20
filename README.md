@@ -1,16 +1,14 @@
-# appfood
+# App food
 
-A new Flutter project.
+| Screen 1        | Screen 2           | Screen 3  |
+| ------------- | ------------- | ------------- |
+| ![APP Demo 01](https://raw.githubusercontent.com/itti9gat/flutter_food_firebase/master/imgs/ss01.png)      | ![APP Demo 02](https://raw.githubusercontent.com/itti9gat/flutter_food_firebase/master/imgs/ss02.png) | ![APP Demo 03](https://raw.githubusercontent.com/itti9gat/flutter_food_firebase/master/imgs/ss03.png) |
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+### Usage
+Make sure you have Flutter installed on your local machine. 
+For more instructions on how to install flutter, look [here](https://flutter.io/docs/get-started/install).
+```
+- git clone https://github.com/itti9gat/flutter_food_firebase.git
+- cd flutter_food_firebase
+- flutter run
+```
